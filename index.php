@@ -11,6 +11,6 @@
 			<input type="submit" name="" value="Enviar">
 		</form>
 		<hr />
-		<?php include('partialView.html') ?>
+		
 	</body>
 </html>
